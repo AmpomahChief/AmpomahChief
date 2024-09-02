@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ampomahchief)
+![](Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ampomahchief)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ampomahchief&theme=dark&hide_border=false)<br/>
