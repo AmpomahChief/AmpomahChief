@@ -11,8 +11,7 @@
 
 #### Glad you found me. My name is Bernard and I have love for tech. Am a data scientist, I love working with big data and Building practical Machine Learning Models with business intelligence. 
 
-Here are some ideas to get you started:
-
+A Little More About Me:
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate on Data Science Projects with python.
